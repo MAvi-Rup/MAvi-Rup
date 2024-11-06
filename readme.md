@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since, I first started coding, but I've also been learning and improving ever since!<br><br>📚 I'm currently learning, TypeScript, Redux, Redux Toolkit, Next.js, and exploring new front-end development techniques.<br><br>🎯 Goals: My goal is to become a proficient full-stack developer and contribute to impactful projects that make a difference in people's lives.<br><br>🎲 Fun fact: I'm always on the lookout for the latest backend technologies and love diving into new frameworks and tools to enhance my development skills.</p>
+<p align="left">✨ Creating bugs since, I first started coding, but I've also been learning and improving ever since!<br><br>📚 I'm currently working with TypeScript, Redux, Redux Toolkit, Next.js, and exploring new front-end development techniques.<br><br>🎯 Goals: My goal is to become a proficient full-stack developer and contribute to impactful projects that make a difference in people's lives.<br><br>🎲 Fun fact: I'm always on the lookout for the latest backend technologies and love diving into new frameworks and tools to enhance my development skills.</p>
 
 ###
 
